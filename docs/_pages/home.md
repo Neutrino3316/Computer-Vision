@@ -9,6 +9,17 @@ last_modified_at: 2018-10-27 T 10:12:04+08:00
 
 # TODO:
 
+- [x] 拍照
+- [ ] 算出K矩阵
+- [ ] 算出H矩阵
+- [ ] 找出特征点对
+
+# 相关数据
+
+焦距是50mm
+
+# 代码协作方式
+
 1. 先关注[这个账号](https://github.com/Neutrino3316/)，相互follow涨粉
 
 2. 学习如何使用Jupyter Notebook
