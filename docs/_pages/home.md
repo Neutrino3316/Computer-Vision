@@ -26,5 +26,7 @@ last_modified_at: 2018-10-27 T 10:12:04+08:00
    1. [官网](http://jupyter.org/)
    2. [使用教程](https://jupyter-notebook.readthedocs.io/en/latest/ui_components.html)
 
-3. 我开了个[Jupyter Notebook]( http://172.18.34.103:8888/?token=6c3e77496ed885fc3a39c9461a0ee62f891992d825647a56)， 可以给大家远程连接， 不过不要在上面搞事情啊。如果连接失效了就和我说一下，我发个最新的链接或者让我更新一下就可以了。PS:已在27日下午15点修复完成
+3. 我开了个[Jupyter Notebook]( http://172.18.34.103:8888/?token=6c3e77496ed885fc3a39c9461a0ee62f891992d825647a56)， 可以给大家远程连接， 不过不要在上面搞事情啊。如果连接失效了就和我说一下，我发个最新的链接或者让我更新一下就可以了。
+
+[VisualSFM](http://ccwu.me/vsfm/)
 <!-- 用这个链接： Copy/paste this URL into your browser when you connect for the first time, to login with a token: -->
